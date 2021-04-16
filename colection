@@ -31,8 +31,6 @@ http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" tvg-url="" group-title="",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="" tvg-logo="https://img.astroawani.com/template/awani.jpg" tvg-url="" group-title="",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="" tvg-url="" group-title="",Astro Citra
